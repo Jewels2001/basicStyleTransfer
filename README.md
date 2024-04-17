@@ -1,7 +1,7 @@
 # basicStyleTransfer
 A PyTorch implementation of the basic style transfer outlined in "A Neural Algorithm of Artistic Style"
 
-
+<img src="https://github.com/Jewels2001/basicStyleTransfer/blob/main/StyleTransfer.drawio.png">
 
 # Resources used:
 - [TensorFlow Docs](https://www.tensorflow.org/tutorials/generative/style_transfer)
